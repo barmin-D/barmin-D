@@ -1,7 +1,7 @@
 <a href="https://t.me/Tortiss00">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 
-</a>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+телеграм)](https://git.io/typing-svg)
+</a>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+телеграм)](https://t.me/Tortiss00)
 
 ## Мои проекты
 
