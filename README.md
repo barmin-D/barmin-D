@@ -4,7 +4,7 @@
 
 </a>  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Мой+телеграм)](https://t.me/Tortiss00)
 
-<h1 align="center">Я закончил Яндекс.Практикум по направлению Java-разработчик. Вот некоторые из моих проектов:</h1>
+<h1 align="center">Вот некоторые из моих проектов:</h1>
 
 
 
